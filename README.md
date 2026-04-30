@@ -110,63 +110,80 @@ Para evoluir após o básico, as fontes sugerem:
 9. Glossário
 
 A
+
 Abstração: Pilar da programação orientada a objetos que consiste em modelar atributos e comportamentos baseados em entidades do mundo real.
 ASP.NET Core: Framework da plataforma .NET utilizado para o desenvolvimento de aplicações web e criação de APIs.
 
 B
+
 Bool (Booleano): Tipo de dado que armazena apenas dois valores possíveis: verdadeiro (true) ou falso (false).
 
 C
+
 C# (C Sharp): Linguagem de programação moderna, fortemente tipada e totalmente orientada a objetos desenvolvida pela Microsoft.
 Classes: Estruturas que funcionam como o "projeto" ou "planta" de um objeto, definindo seus atributos e métodos.
 Console.ReadLine: Comando utilizado para capturar uma linha de texto digitada pelo usuário no terminal.
 Console.WriteLine: Comando utilizado para exibir mensagens ou dados na tela do console.
 
 D
+
 Double / Decimal: Tipos de dados utilizados para representar números com pontos decimais ou frações.
 
 E
+
 Encapsulamento: Pilar da orientação a objetos focado em proteger e esconder os detalhes internos de funcionamento de uma classe.
 
 F
+
 Float: Tipo de dado numérico de ponto flutuante utilizado para números decimais simples.
 
 H
+
 Herança: Pilar da orientação a objetos que permite que uma nova classe adquira características de uma classe já existente, facilitando a reutilização de código.
 
 I
+
 IDE (Ambiente de Desenvolvimento Integrado): Aplicativo robusto que reúne ferramentas para escrita, depuração e teste de software, como o Visual Studio e o JetBrains Rider.
 Int (Inteiro): Tipo de dado fundamental utilizado para armazenar números inteiros positivos ou negativos.
 
 M
+
 Main: O método principal localizado no arquivo program.cs que serve como o ponto de partida para a execução de qualquer aplicação console.
 
 N
+
 .NET: Ecossistema gratuito, de código aberto e multiplataforma onde o código C# é executado.
 .NET SDK: Pacote de software que contém o compilador e as bibliotecas necessárias para desenvolver aplicações na plataforma .NET.
 
 O
+
 Objetos: Instâncias concretas de uma classe que ocupam espaço na memória e executam as lógicas definidas.
 Operadores: Símbolos que permitem realizar operações matemáticas (como +, -, *, /) ou comparações lógicas (como ==, !=, >, <).
 
 P
+
 Polimorfismo: Pilar da orientação a objetos que permite que um método tenha comportamentos diferentes dependendo da classe derivada que o executa.
 Program.cs: Arquivo de código fonte que, por padrão, contém a lógica inicial de um projeto C#.
 
 S
+
 String: Tipo de dado utilizado para representar sequências de caracteres ou textos.
 Switch: Estrutura de controle de fluxo ideal para tratar múltiplas condições fixas ou menus de forma organizada.
 
 T
+
 Tipagem Forte: Característica do C# que exige que o tipo de cada variável seja definido e respeitado durante toda a execução.
 
 U
+
 Unity: Motor de desenvolvimento de jogos (engine) que utiliza C# como sua principal linguagem de programação.
 
 V
+
 Variáveis: Espaços nomeados na memória do computador usados para armazenar e recuperar dados durante a execução do programa.
 
 ----------------------------------------XXXX---------------------------------------- 
+
 Método de uso da ferramento Notebooklm
 
 Prompts da pesquisa de novas fontes no Notebooklm:
