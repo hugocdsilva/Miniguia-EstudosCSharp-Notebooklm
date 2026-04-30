@@ -98,6 +98,7 @@ Comunidade e Referência Rápida
 -------------------------------------------------------------------------------- 
 
 8. Próximos Passos (Roadmap de Estudos)
+   
 Para evoluir após o básico, as fontes sugerem:
 1.	Git e GitHub: Essencial para controle de versão e portfólio.
 2.	Banco de Dados SQL: Aprender a sintaxe SQL e integração com C#.
